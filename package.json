@@ -1,19 +1,19 @@
 {
-  "name": "edx-theme",
-  "private": true,
-  "description": "Open edX theme for IONISx",
+  "name": "edxtheme",
+  "private": false,
+  "description": "Open edX theme for UoA",
   "repository": {
     "type": "git",
-    "url": "git://github.com/IONISx/edx-theme.git"
+    "url": "git://github.com/nxkhanh09/edxtheme.git"
   },
   "scripts": {
     "test": "grunt test"
   },
   "license": "AGPL",
   "bugs": {
-    "url": "https://github.com/IONISx/edx-theme/issues"
+    "url": "https://github.com/nxkhanh09/edxtheme/issues"
   },
-  "homepage": "https://github.com/IONISx/edx-theme",
+  "homepage": "https://github.com/nxkhanh09/edxtheme",
   "devDependencies": {
     "grunt": "0.4.5",
     "grunt-contrib-less": "1.0.1",
